@@ -1,0 +1,1 @@
+-wto "6f70928a3fe1417a83e3669e18770943" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "OverlappingParityEncoder_tb_behav" "xil_defaultlib.OverlappingParityEncoder_tb" -log "elaborate.log" 

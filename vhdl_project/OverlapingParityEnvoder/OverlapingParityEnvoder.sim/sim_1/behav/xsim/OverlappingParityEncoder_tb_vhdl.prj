@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../src/EC1_top_vhdl/DataPath/OverlappingParity/Common/BitCorrection.vhd" \
+"../../../../../../src/EC1_top_vhdl/DataPath/OverlappingParity/Common/CodeWordConcatenation.vhd" \
+"../../../../../../src/EC1_top_vhdl/DataPath/OverlappingParity/OverlappingParityEncoder/OverlappingParityEncoder.vhd" \
+"../../../../../../src/EC1_top_vhdl/DataPath/OverlappingParity/Common/ParityCalculation.vhd" \
+"../../../../../../src/EC1_top_vhdl/DataPath/OverlappingParity/Common/SyndromeCalculation.vhd" \
+"../../../../../../src/EC1_top_vhdl/DataPath/OverlappingParity/OverlappingParityEncoder/OverlappingParityEncoder_tb.vhd" \
+
+# Do not sort compile order
+nosort

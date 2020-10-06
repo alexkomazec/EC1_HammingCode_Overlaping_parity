@@ -1,0 +1,22 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: E:/Vivado/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 6f70928a3fe1417a83e3669e18770943 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot OverlappingParityEncoder_tb_behav xil_defaultlib.OverlappingParityEncoder_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.ParityCalculation [paritycalculation_default]
+Compiling architecture behavioral of entity xil_defaultlib.SyndromeCalculation [syndromecalculation_default]
+Compiling architecture behavioral of entity xil_defaultlib.BitCorrection [bitcorrection_default]
+Compiling architecture behavioral of entity xil_defaultlib.CodeWordConcatenation [codewordconcatenation_default]
+Compiling architecture behavioral of entity xil_defaultlib.OverlappingParityEncoder [overlappingparityencoder_default]
+Compiling architecture bench of entity xil_defaultlib.overlappingparityencoder_tb
+Built simulation snapshot OverlappingParityEncoder_tb_behav

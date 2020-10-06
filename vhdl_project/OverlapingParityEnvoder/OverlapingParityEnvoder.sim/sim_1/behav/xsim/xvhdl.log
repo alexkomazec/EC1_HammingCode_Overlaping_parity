@@ -1,0 +1,2 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/SistemiOtporniNaOtkaz/git/EC1_HammingCode_Overlaping_parity/src/EC1_top_vhdl/DataPath/OverlappingParity/OverlappingParityEncoder/OverlappingParityEncoder_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'OverlappingParityEncoder_tb'

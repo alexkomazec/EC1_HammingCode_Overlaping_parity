@@ -1,0 +1,10 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+E:/SistemiOtporniNaOtkaz/git/EC1_HammingCode_Overlaping_parity/src/EC1_top_vhdl/DataPath/OverlappingParity/Common/BitCorrection.vhd,1602019714,vhdl,,,,bitcorrection,,,,,,,,
+E:/SistemiOtporniNaOtkaz/git/EC1_HammingCode_Overlaping_parity/src/EC1_top_vhdl/DataPath/OverlappingParity/Common/CodeWordConcatenation.vhd,1601848679,vhdl,,,,codewordconcatenation,,,,,,,,
+E:/SistemiOtporniNaOtkaz/git/EC1_HammingCode_Overlaping_parity/src/EC1_top_vhdl/DataPath/OverlappingParity/Common/ParityCalculation.vhd,1601847033,vhdl,,,,paritycalculation,,,,,,,,
+E:/SistemiOtporniNaOtkaz/git/EC1_HammingCode_Overlaping_parity/src/EC1_top_vhdl/DataPath/OverlappingParity/Common/SyndromeCalculation.vhd,1602018988,vhdl,,,,syndromecalculation,,,,,,,,
+E:/SistemiOtporniNaOtkaz/git/EC1_HammingCode_Overlaping_parity/src/EC1_top_vhdl/DataPath/OverlappingParity/OverlappingParityEncoder/OverlappingParityEncoder.vhd,1602019115,vhdl,,,,overlappingparityencoder,,,,,,,,
+E:/SistemiOtporniNaOtkaz/git/EC1_HammingCode_Overlaping_parity/src/EC1_top_vhdl/DataPath/OverlappingParity/OverlappingParityEncoder/OverlappingParityEncoder_tb.vhd,1602021746,vhdl,,,,overlappingparityencoder_tb,,,,,,,,
